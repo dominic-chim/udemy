@@ -39,3 +39,10 @@
   padding: 16px;
   text-align: center;
 }
+
+.App button {
+  border: 1px solid blue;
+  padding: 16px;
+  background-color: green;
+  font: inherit;
+}

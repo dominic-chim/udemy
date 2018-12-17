@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Radium, { StyleRoot } from 'radium';
+
 import Persons from './components/Person';
-import styled from 'styled-components';
+
 
 class App extends Component {
   state = {
@@ -50,20 +50,6 @@ class App extends Component {
   }
 
   render() {
-    const style={
-      backgroundColor:'green',
-      color:'white',
-      font: 'inherit',
-      border: '1px solid blue',
-      padding: '8px',
-      cursor: 'pointer',
-    }
-
-    const Title = styled.h1`
-      font-size: 1.5em;
-      text-align: center;
-      color: palevioletred;
-    `;
 
     let form = null
     
@@ -81,25 +67,20 @@ class App extends Component {
         })}
         </div>
       )
-      style[':hover']={
-        backgroundColor: 'red',
-        color: 'white'
-      }
+
     }
 
     return (
-      <StyleRoot>
-        <div className="App">
-          <header className="header">
-            <img src={logo} className="App-logo" alt="logo" />
-            <Title>React App Workbook</Title>
-          </header>
-          <button style={style} onClick={this.toggleFormHandler}>Show/Hide Form</button>
-          {form}
-        </div>
-      </StyleRoot>
+      <div className="App">
+        <header className="header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <h1>React App Workbook</h1>
+        </header>
+        <button  onClick={this.toggleFormHandler}>Show/Hide Form</button>
+        {form}
+      </div>
     );
   }
 }
 
-export default Radium(App);
+export default App;
