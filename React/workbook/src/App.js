@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import classes from './App.css';
 
 import Persons from './components/Person';
 
@@ -67,16 +67,23 @@ class App extends Component {
         })}
         </div>
       )
-
     }
 
+    const assignedClasses =[]
+    if(this.state.persons.length <=2){
+      assignedClasses.push(classes.red);
+    }
+    if(this.state.persons.length<=1){
+      assignedClasses.push(classes.larger);
+    }
+    
     return (
-      <div className="App">
+      <div className={classes.App}>
         <header className="header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>React App Workbook</h1>
+          <h1 className={assignedClasses.join(' ')}>React App Workbook</h1>
         </header>
-        <button  onClick={this.toggleFormHandler}>Show/Hide Form</button>
+        <button onClick={this.toggleFormHandler}>Show/Hide Form</button>
         {form}
       </div>
     );
