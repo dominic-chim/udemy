@@ -1,0 +1,6 @@
+id,name,email,amount,sent,date
+1,Justin,testdev@test.com,180,True,2021-01-20 15:17:07.544954
+2,Bob,testdev@test.com,435,,2021-01-20 15:17:07.561955
+3,Marianne,testdev1@test.com,420,True,2021-01-20 15:17:07.574954
+4,Elsa,testdev@test.com,99.99,,2021-01-20 15:17:07.588956
+5,Dominic,testdev@test.com,88.88,,2021-01-20 15:17:07.600955
