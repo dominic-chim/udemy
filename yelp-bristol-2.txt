@@ -1,0 +1,210 @@
+1.ï¿½Teppan
+Asian Fusion
+
+2.ï¿½Pieminister
+Â£Â£British
+
+3.ï¿½The Mayflower Chinese Restaurant
+ï¿½ï¿½Chinese
+
+4.ï¿½The Ox
+ï¿½ï¿½ï¿½ï¿½British
+
+5.ï¿½The Bristolian
+ï¿½Coffee & Tea Shops, Breakfast & Brunch, Bistros
+
+6.ï¿½Street Food
+ï¿½ï¿½Thai
+
+7.ï¿½Poco
+ï¿½ï¿½Coffee & Tea Shops, Latin American, Spanish
+
+8.ï¿½Spoke & Stringer
+Breakfast & Brunch
+
+9.ï¿½The River Grille
+ï¿½ï¿½British
+
+10.ï¿½Steak of the Art
+ï¿½ï¿½ï¿½Steakhouses
+
+11.ï¿½Catch22
+ï¿½ï¿½Seafood, Fish & Chips, Gluten Free
+
+12.ï¿½Brunels Buttery
+ï¿½Takeaway & Fast Food, Coffee & Tea Shops, British
+
+13.ï¿½Broken Dock
+Bars, British, Steakhouses
+
+14.ï¿½Sky Kong Kong
+ï¿½ï¿½Korean
+
+15.ï¿½The Bristol Sausage Shop
+ï¿½Meat Shops, Takeaway & Fast Food
+
+16.ï¿½The Cowshed
+ï¿½ï¿½ï¿½British, Steakhouses
+
+17.ï¿½The Apple
+ï¿½Pubs, British
+
+18.ï¿½Cosy Club
+ï¿½ï¿½British, Bars, Cafes
+
+19.ï¿½The Olive Shed
+ï¿½ï¿½Greek, Mediterranean
+
+20.ï¿½Slim Chickens - Bristol
+American (New), Chicken Shop
+
+21.ï¿½Pieminister @ St Nickï¿½s Market
+ï¿½British, Specialty Food
+
+22.ï¿½Este Kitchen
+Breakfast & Brunch, Cafes, Juice Bar & Smoothies
+
+23.ï¿½Three Brothers Burgers
+ï¿½Burgers
+
+24.ï¿½Lido
+ï¿½ï¿½ï¿½Spa, Swimming Pools, Modern European
+
+25.ï¿½The Grace
+ï¿½ï¿½Tapas & Small Plates, Pubs
+
+26.ï¿½Khao & Bao
+ï¿½Taiwanese, Asian Fusion
+
+27.ï¿½Nomu
+ï¿½ï¿½Japanese, Cocktail Bars
+
+28.ï¿½Biblos
+ï¿½Coffee & Tea Shops, Middle Eastern
+
+29.ï¿½Riverstation
+ï¿½ï¿½British
+
+30.ï¿½Bosphorus Restaurant
+ï¿½ï¿½Turkish
+
+1. Teppan
+Asian Fusion
+
+2. Pieminister
+££British
+
+3. The Mayflower Chinese Restaurant
+££Chinese
+
+4. The Ox
+££££British
+
+5. The Bristolian
+£Coffee & Tea Shops, Breakfast & Brunch, Bistros
+
+6. Street Food
+££Thai
+
+7. Poco
+££Coffee & Tea Shops, Latin American, Spanish
+
+8. Spoke & Stringer
+Breakfast & Brunch
+
+9. The River Grille
+££British
+
+10. Steak of the Art
+£££Steakhouses
+
+11. Catch22
+££Seafood, Fish & Chips, Gluten Free
+
+12. Brunels Buttery
+£Takeaway & Fast Food, Coffee & Tea Shops, British
+
+13. Broken Dock
+Bars, British, Steakhouses
+
+14. Sky Kong Kong
+££Korean
+
+15. The Bristol Sausage Shop
+£Meat Shops, Takeaway & Fast Food
+
+16. The Cowshed
+£££British, Steakhouses
+
+17. The Apple
+£Pubs, British
+
+18. Cosy Club
+££British, Bars, Cafes
+
+19. The Olive Shed
+££Greek, Mediterranean
+
+20. Slim Chickens - Bristol
+American (New), Chicken Shop
+
+21. Pieminister @ St Nick’s Market
+£British, Specialty Food
+
+22. Este Kitchen
+Breakfast & Brunch, Cafes, Juice Bar & Smoothies
+
+23. Three Brothers Burgers
+£Burgers
+
+24. Lido
+£££Spa, Swimming Pools, Modern European
+
+25. The Grace
+££Tapas & Small Plates, Pubs
+
+26. Khao & Bao
+£Taiwanese, Asian Fusion
+
+27. Nomu
+££Japanese, Cocktail Bars
+
+28. Biblos
+£Coffee & Tea Shops, Middle Eastern
+
+29. Riverstation
+££British
+
+30. Bosphorus Restaurant
+££Turkish
+
+31. The Ethicurean
+British
+
+32. Rice & Things
+Caribbean
+
+33. The Clifton
+£££Pubs, Gastro Pubs
+
+34. One Two Three
+£Chinese
+
+35. Zizzi
+££Italian, Pizza
+
+36. The White Horse
+Gastro Pubs
+
+37. Pho
+Vietnamese
+
+38. Boston Tea Party
+££Coffee & Tea Shops, British, Breakfast & Brunch
+
+39. BrewDog
+£Burgers, Pubs
+
+40. Rosemarino
+££Italian
+

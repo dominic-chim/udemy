@@ -4,23 +4,65 @@ import shutil
 import os
 from tempfile import NamedTemporaryFile
 from utils.templates import get_template,render_context
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from smtplib import SMTP,SMTPAuthenticationError,SMTPException #from better for third party, import for core python modules as best practice
+#gmail smtp credentials
 
 #file_item_path = os.path.join(os.getcwd(), "data.csv")
 file_item_path = os.path.join(os.path.dirname(__file__), "data.csv")
 
+#email
+host = "smtp.gmail.com"
+port = 587
+username = "devtest.dchim123@gmail.com"
+password = "aUW%QDu2F8!d"
+wrong_pass = "wrong_password"
+from_email = username
+to_list = ["devtest.dchim123@gmail.com"]
+
 class UserManager():
-    def message_user(self):
+
+    def render_message(self,user_data):
         file_= 'templates\\email_message.txt'
         file_html =  "templates\\email_message.html"
         template_text = get_template(file_)
         template_html = get_template(file_html)
-        context = {
-            "name":"Justin",
-            "date":None,
-            "total": None
-        }
-        print(render_context(template_text,context))
-        print(render_context(template_html,context))
+        if isinstance(user_data,dict):
+            context = user_data
+            plain_ = render_context(template_text,context)
+            html_ = render_context(template_html,context)
+            return (plain_,html_)
+        return (None,None)
+
+    def message_user(self,user_id = None,email = None,subject = "Billing Update"):
+        user = self.get_user_data(user_id=user_id, email=email)
+        if user:
+            plain_,html_ = self.render_message(user)
+            print(plain_,html_)
+            user_email = user.get("email","devtest.dchim123@gmail.com")
+            to_list.append(user_email)
+            try:
+                email_conn = SMTP(host,port)
+                email_conn.ehlo()
+                email_conn.starttls() 
+                email_conn.login(username,password)
+                #run email
+                the_msg = MIMEMultipart("alternative")
+                the_msg['Subject'] = subject
+                the_msg['From'] = from_email
+                the_msg['To'] = user_email
+                part_1 = MIMEText(plain_, 'plain')
+                part_2 = MIMEText(html_,'html')
+                the_msg.attach(part_1)
+                the_msg.attach(part_2)
+                email_conn.sendmail(from_email,to_list,the_msg.as_string())
+                print("email sent to " + user_email)
+                email_conn.quit()
+            except SMTPAuthenticationError:
+                print("Error: could not log in")
+            except SMTPException:
+                print("Error: sending message")
         return None
     def get_user_data(self,user_id=None, email=None):
         filename = file_item_path
@@ -41,7 +83,7 @@ class UserManager():
                     else:
                         unknown_email = email
             if unknown_user_id is not None:
-                return "User id {user_id} not found".format(user_id=user_id)
+                print( "User id {user_id} not found".format(user_id=user_id) )
             if unknown_email is not None:
-                return "email {email} not found".format(email=email)
+                print( "email {email} not found".format(email=email) )
         return None         

@@ -64,14 +64,16 @@ Dom
     def send_email(self):
         self.make_message()
         if len(self.email_messages) >0:
-            email_conn = SMTP(host,port)
-            email_conn.ehlo()
-            email_conn.starttls() 
-            try:
-                email_conn.login(username,password)
-            except SMTPAuthenticationError:
-                print("Error: could not log in")
+            
             for detail in self.email_messages:
+                try:
+                    email_conn = SMTP(host,port)
+                    email_conn.ehlo()
+                    email_conn.starttls() 
+                    email_conn.login(username,password)
+                except SMTPAuthenticationError:
+                    print("Error: could not log in")
+                    
                 user_email = detail['email']
                 user_message = detail['message']
                 #run email
