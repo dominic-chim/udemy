@@ -1,0 +1,11 @@
+
+** Delivery incomplete **
+
+There was a temporary problem while delivering your message to testdev@test.com. Gmail will retry for 20 more hours. You'll be notified if the delivery fails permanently.
+
+Learn more here: https://support.google.com/mail/answer/7720
+
+The response was:
+
+The recipient server did not accept our requests to connect. Learn more at https://support.google.com/mail/answer/7720 
+[test.com 69.172.200.235: timed out]

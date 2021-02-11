@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-weight: 300;min-height: 100%;height: 100%;">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+
+<body style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 300;min-height: 100%;height: 100%;width: 100%;">
+<table id="wrapper" cellpadding="20" cellspacing="0" border="0" id="backgroundTable" style="width: 100%;background-color: #eaeaea;background-image: url(https://static0.twilio.com/resources/images/email/background.jpg);font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 300;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;line-height: 100%;height: 100%;">
+	<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+
+		<table id="contentTable" cellpadding="0" cellspacing="0" border="0" style="background-color: #fff;margin: 0 auto;width: 680px;border: solid 1px #ddd;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+			<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+
+				<table id="header" cellpadding="20" cellspacing="0" border="0" style="border-bottom: solid 1px #ddd;width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+					<tbody><tr><td style="color: #444;font-size: 31px;font-weight: bold;border-collapse: collapse;vertical-align: top;">
+						<img src="https://static0.twilio.com/resources/images/email/twilio-logo-alt.jpg" width="119" height="35" alt="twilio" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;">
+					</td></tr></tbody>
+				</table>
+
+				<table cellpadding="30" cellspacing="0" border="0" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+					<tbody><tr><td id="message" style="border-collapse: collapse;vertical-align: top;">
+
+						<table cellpadding="10" cellspacing="0" border="0" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+	<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+		<p id="description" style="font-size: 16px; color: #555; line-height: 26px; font-weight: 300; margin: 0 40px;">
+			<span class="notranslate">dominic chim</span>,
+		</p>
+	</td></tr></tbody>
+</table>
+
+<table cellpadding="10" cellspacing="0" border="0" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+	<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+		<p id="description" style="font-size: 16px; color: #555; line-height: 26px; font-weight: 300; margin: 0 40px;">
+            To activate your Twilio Account, please verify your email address.<br />
+			Your account will not be created until your email address is confirmed.
+            </p>
+	</td></tr></tbody>
+</table>
+
+<table cellpadding="10" cellspacing="0" border="0" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+	<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+		<p style="font-size: 16px; color: #555; line-height: 26px; font-weight: 300; margin: 0 40px;">
+			<a href="https://links.twiliocdn.com/ls/click?upn=3kZIcBV84MSbPEonqfrF6dGb3PJ6jbldw7J3yS57HqemXns2WYta3RoHKq8W8aC7z90TVbg6u9oaUSceiT3VchhiX9Mmb-2FPzY6nNtVMnWFs4-2FIMCip2dyX2aawVms0ih1-2FihYGFMeNBrCKfp7qtS923JgUNT1aS-2FwahejyYxNubdAEkj3AHv1bSPpOvb11lu-2B5DviAh4ZD4a6fiNyE72koLGfkdo60YztZfP-2FL4dxTl1dSG-2F5C8895lFfUhuNx-2FeAK60LxDNWl0nBtOGehSB2LE8BK-2BK6yWpORg-2FDPD3C-2FM-3Dkgek_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoMfzJ25shMEXQNIvyawqQcdV4BK4w8UPMPNNJBwah3bdkJSJpYKOh5Zxiv1QiWwQpHyq5OxqWYCUjkXdD-2FvyO-2FYCsNOn-2Fl89u7ok5Ln9lh86JN3Af4zQvZC3GpaMmYT1FMaosOfmex42CKPd6h-2F2EhFha2g-2FEIvifraj0ERK5cebzKrmWtISuFb-2Bhr2obrNy0PQt5c5I-2FGlZrnNnmIy7qkRTsUq12ixdagqTU7mmtxETg-3D-3D" class="notranslate" style="color: #0000FF; font-weight: 400; text-decoration: underline;">Confirm Your Email</a>
+		</p>
+    </td></tr></tbody>
+</table>
+
+<table cellpadding="10" cellspacing="0" border="0" style="width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+	<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+		<p id="description" style="font-size: 16px; color: #555; line-height: 26px; font-weight: 300; margin: 0 40px;">
+		    <br />
+	        Or, copy and paste the following URL into your browser: <br />
+            <span class="notranslate">https://www.twilio.com/console/activate?key=Gd%2F2Vkg7XfNTE9SrE%2FemxS9A4QsiV8HxJVIyj5BSWzidYW5np9KKs4XIiC9yF3V2sdBlKgkaAh1KUOVIAGnaqaep77ja52jCWnVHY9yS2C%2FtC6HUJS8depWWtoSFsXgP%2BaB%2FxjB3mtoONxCiFm5X%2FA%3D%3D</span>
+        </p>
+	</td></tr></tbody>
+</table>
+
+
+					</td></tr></tbody>
+				</table>
+
+			</td></tr></tbody>
+		</table>
+
+		<table id="contentTable" cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto;width: 680px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+			<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+
+				<table cellpadding="10" cellspacing="0" border="0" style="width: 100%;text-align: center;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+				<tbody><tr><td style="border-collapse: collapse;vertical-align: top;">
+
+					<br />
+
+					<p style="font-size: 12px; color: #555; line-height: 19px; font-weight: 300; margin: 0 30px; text-align: center;">
+						This system email was sent to <span class="notranslate">dominic</span> <span class="notranslate">chim</span> (<span class="notranslate"><a href="mailto:devtest.dchim123@gmail.com" style="color: #555; font-weight: 300; text-decoration: none;">devtest.dchim123@gmail.com</a></span>) <span class="mobile-clear"></span>regarding your Twilio Account
+						<br /><span class="notranslate">(AC03a05575427365e0bb81098b112e2255)</span><span class="mobile-clear"></span>
+						<br />by Twilio, Inc., 375 Beale Street, Suite 300, San Francisco, CA 94105
+					</p>
+					<br />
+
+					<p style="font-size: 14px; color: #555; line-height: 16px; font-weight: 300; margin: 20px 30px; text-align: center;">
+						If you have any questions, simply respond to this email and we'll be happy to help.
+						</p>
+
+				</td></tr></tbody>
+				</table>
+
+			</td></tr></tbody>
+		</table>
+
+	</td></tr></tbody>
+</table>
+
+<style type="text/css">
+
+	#outlook a {padding:0;}
+	body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
+	.ExternalClass {width:100%;}
+	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+	#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important; height: 100% !important;}
+
+		/* INLINE */
+	img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
+	a img {border:none;}
+	a {color: inherit;}
+	.image_fix {display:block;}
+	p {margin: 1em 0;}
+	table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+
+	table td {border-collapse: collapse; vertical-align: top;}
+
+	body, html {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-weight: 300;
+		min-height: 100%;
+		height: 100%;
+	}
+
+	@media only screen and (max-device-width: 720px) {
+
+		table[id="header"] td {
+			text-align: center !important;
+		}
+
+		table[id="contentTable"] {
+			width: 100% !important;
+			min-width: 320px;
+		}
+
+		p[id="description"] {
+			margin: 0 10% !important;
+		}
+
+	}
+
+	@media only screen and (max-device-width: 480px) {
+
+		br {
+			display: none !important;
+		}
+
+		.mobile-clear {
+			display: block !important;
+			clear: both !important;
+		}
+
+		.mobile-hide {
+			display: none !important;
+		}
+
+		table[id="wrapper"] > tbody > tr > td {
+			padding: 0 !important;
+		}
+
+		table[id="wrapper"] > tbody > tr > td > table {
+			border: none !important;
+		}
+
+		td[id="message"] {
+			padding: 30px 0 !important;
+		}
+
+		td[id="message"] p {
+			margin: 0 20px !important;
+		}
+
+		table[id="account-info"] td {
+			text-align: center !important;
+		}
+
+		td[class="avatar"] {
+			display: none !important;
+		}
+
+		table[id="questions"] b {
+			display: block;
+		}
+
+		table[id="questions"] a {
+			display: block;
+		}
+
+		td[class="account-info-spacing"] {
+			display: none !important;
+		}
+
+		td[class="account-info-wrapper"] {
+			width: 100% !important;
+		}
+
+		td[class="account-info-wrapper"] table {
+			width: 100% !important;
+		}
+
+		a[href^="tel"], a[href^="sms"] {
+			text-decoration: none;
+			color: black; /* or whatever your want */
+			pointer-events: none;
+			cursor: default;
+		}
+
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+			text-decoration: default;
+			color: red !important; /* or whatever your want */
+			pointer-events: auto;
+			cursor: default;
+		}
+
+	}
+
+	@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+		a[href^="tel"], a[href^="sms"] {
+			text-decoration: none;
+			color: blue; /* or whatever your want */
+			pointer-events: none;
+			cursor: default;
+		}
+
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+			text-decoration: default;
+			color: orange !important;
+			pointer-events: auto;
+			cursor: default;
+		}
+
+	}
+
+</style>
+
+<!--[if gte mso 9]>
+<style>
+		/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+
+
+<img src="https://links.twiliocdn.com/wf/open?upn=VPNIskLU5fP178toE3TjlY7PfwByjTDFBlhvz3Yx-2B3t3l3ur9DYdO4In6GzUu63OI431m9Z-2BfXDCJizj7hRN5oY5bEpmT0NhnYJ-2BjEUQOouTsiVQpGOM3rLDGpISXlaAEZA49gQz8nXxVMzysxRJEnGw-2BcLlm-2Fi2HaPQsW5TseS-2FaV-2BW-2FRHgUn7h8XVH2DYG-2BDxkuaLpMXvQvu70kPvtBtzlMmavNH2fGPZul7-2B0m-2BP7jKJP9owmMBO7RZ5JGDDW96uzZtgLU2WZifMZH9VKiA-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+

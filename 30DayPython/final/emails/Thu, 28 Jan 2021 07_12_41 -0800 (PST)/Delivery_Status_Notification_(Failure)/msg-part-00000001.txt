@@ -1,0 +1,11 @@
+
+** Message not delivered **
+
+There was a problem delivering your message to testdev@test.com. See the technical details below or try resending in a few minutes.
+
+Learn more here: https://support.google.com/mail/answer/7720
+
+The response was:
+
+The recipient server did not accept our requests to connect. Learn more at https://support.google.com/mail/answer/7720 
+[test.com 69.172.200.235: timed out]

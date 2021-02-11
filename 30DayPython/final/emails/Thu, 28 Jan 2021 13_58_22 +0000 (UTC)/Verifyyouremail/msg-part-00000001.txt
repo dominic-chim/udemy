@@ -1,0 +1,15 @@
+dominic chim,
+
+ To activate your Twilio Account, please verify your email address.
+   Your account will not be created until your email address is confirmed.
+
+   Confirm Your Email @ https://links.twiliocdn.com/ls/click?upn=3kZIcBV84MSbPEonqfrF6dGb3PJ6jbldw7J3yS57HqemXns2WYta3RoHKq8W8aC7z90TVbg6u9oaUSceiT3VchhiX9Mmb-2FPzY6nNtVMnWFs4-2FIMCip2dyX2aawVms0ih1-2FihYGFMeNBrCKfp7qtS923JgUNT1aS-2FwahejyYxNubdAEkj3AHv1bSPpOvb11lu-2B5DviAh4ZD4a6fiNyE72koLGfkdo60YztZfP-2FL4dxTl1dSG-2F5C8895lFfUhuNx-2FeAK60LxDNWl0nBtOGehSB2LE8BK-2BK6yWpORg-2FDPD3C-2FM-3D7Y78_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoMfzJ25shMEXQNIvyawqQcdV4BK4w8UPMPNNJBwah3bdhmHevWn1ft3V8s2OuenxwBDuc9737ZYlbKD3g4pEms9AVxEHMDXiB7joKuV1A2je8SG38fge5MLI1u675gu11EIOjdtPbiUFgmUnjKzqqLq9vQNqYpMU5iZHtJp5Iwc94klE4j43LedSpVXZxaukejPt-2FR57l53MLbCw8R9NF4BVS9g0mHcJR7AMQ-2BMxPNEeg-3D-3D
+
+  Or, copy and paste the following URL into your browser: 
+ https://links.twiliocdn.com/ls/click?upn=3kZIcBV84MSbPEonqfrF6dGb3PJ6jbldw7J3yS57HqemXns2WYta3RoHKq8W8aC7z90TVbg6u9oaUSceiT3VchhiX9Mmb-2FPzY6nNtVMnWFs4-2FIMCip2dyX2aawVms0ih1-2FihYGFMeNBrCKfp7qtS923JgUNT1aS-2FwahejyYxNubdAEkj3AHv1bSPpOvb11lu-2B5DviAh4ZD4a6fiNyE72koLGfkdo60YztZfP-2FL4dxTl1dSG-2F5C8895lFfUhuNx-2FeAK60LxDNWl0nBtOGehSB2LE8BK-2BK6yWpORg-2FDPD3C-2FM-3DtWVu_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoMfzJ25shMEXQNIvyawqQcdV4BK4w8UPMPNNJBwah3bdmZoPaQihNfBtYgWv8Wp-2FWY8TGU7BSEcEbolDpL-2FTTIKhheNJS8ggz6CQUSzzpqBBrf2ll0-2Fq-2Fmhwu6hrqBFheDk-2FBo9Rd-2BnRoj9TYmChwVNgXbE7hwnIyPpEwvH-2FeY4aLgx22-2FgGvzwpB5qOr8BQ9f85CY-2Bgggz42C-2BPuzdwwmYdfBeFK334nj-2BWI1ULliBnQ-3D-3D
+
+      This system email was sent to dominic chim (devtest.dchim123@gmail.com @ mailto:devtest.dchim123@gmail.com) regarding your Twilio Account
+      (AC03a05575427365e0bb81098b112e2255)
+      by Twilio, Inc., 375 Beale Street, Suite 300, San Francisco, CA 94105
+
+      If you have any questions, simply respond to this email and we'll be happy to help.

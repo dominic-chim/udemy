@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head> 
+<title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+<!--[if !mso]><!--> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<!--<![endif]--> 
+<!-- Buttons -->    
+<!-- One Column -->   
+<!-- Two Column -->     
+<!-- Three Column -->       
+<style type="text/css">
+  @media screen and (min-width: 10px) {
+    .buttonwrapper a {
+      display: block !important
+    }
+  }
+
+  div[style*="margin: 16px 0"] {
+    margin: 0 !important
+  }
+
+  @media screen and (max-width: 499px) {
+    .inner {
+      padding-left: 20px !important;
+      padding-right: 20px !important
+    }
+
+    .column {
+      max-width: 100% !important
+    }
+
+    .image img {
+      margin: 0 auto !important
+    }
+
+    .three-col .copy,
+    .two-col-bleed .copy {
+      text-align: center !important
+    }
+
+    .three-col .copy .buttonwrapper,
+    .two-col-bleed .copy .buttonwrapper {
+      margin: 0 auto !important;
+      float: none !important
+    }
+
+    .two-col .image img,
+    .two-col-bleed .image img {
+      max-width: 100% !important
+    }
+
+    .buffered {
+      padding-left: 0 !important;
+      padding-right: 0 !important
+    }
+
+    .reset-width {
+      width: auto !important
+    }
+
+    .reset-height {
+      height: auto !important
+    }
+
+    .section-masthead {
+      font-size: 21px !important;
+      line-height: 1.2em !important
+    }
+
+    .section-masthead .contents {
+      font-size: 16px !important;
+      line-height: 1.2em !important
+    }
+
+    .hero-inner {
+      padding: 20px !important
+    }
+
+    .footer-links {
+      line-height: 30px !important
+    }
+
+    .footer-multi img {
+      width: 20px !important
+    }
+
+    .social {
+      margin-top: 5px !important
+    }
+
+    .social td {
+      width: 40px !important
+    }
+
+    .social img {
+      width: 30px !important
+    }
+
+    .stroke-right {
+      border: none !important
+    }
+  }
+
+  @media screen and (min-width: 370px) and (max-width: 499px) {
+    .outer {
+      width: 85% !important;
+      margin: 0 auto !important
+    }
+  }
+
+  @media screen and (min-width: 500px) and (max-width: 615px) {
+    .footer-three .column {
+      max-width: 30% !important
+    }
+
+    .three-col .column {
+      max-width: 33% !important
+    }
+
+    .two-col .column,
+    .two-col-bleed .column {
+      max-width: 50% !important;
+      vertical-align: top !important
+    }
+
+    .two-col-sidebar .left {
+      max-width: 33% !important
+    }
+
+    .two-col-sidebar .right {
+      max-width: 67% !important
+    }
+
+    .one-col .inner {
+      padding-left: 20px !important;
+      padding-right: 20px !important
+    }
+
+    .two-col .inner,
+    .two-col-sidebar .inner {
+      padding-left: 13px !important;
+      padding-right: 13px !important
+    }
+
+    .three-col .inner {
+      padding-left: 14px !important;
+      padding-right: 14px !important
+    }
+
+    .hero-inner {
+      padding: 10px 30px !important
+    }
+  }
+
+  @media screen and (max-width: 615px) {
+    .hide {
+      display: none !important
+    }
+  }
+  </style> 
+<!--[if(mso)|(IE)]>
+<style type="text/css">
+    table {border-collapse: collapse !important; mso-table-lspace:0pt !important; mso-table-rspace:0pt !important;}
+    .links-headings a, .links-headings h1 a, .links-headings h2 a, .links-headings h3 a {color: #008CFF !important; text-decoration: none !important;}
+    .links-copy a {color: #333333 !important; text-decoration: underline !important;}
+    .links-copy h1 a, .links-copy h2 a, .links-copy h3 a, .links-copy h4 a, .links-copy h5 a, .links-copy h6 a {color: #333333 !important; text-decoration: none !important;}
+  </style>
+  <![endif]--> 
+<!--[if mso]>
+<style type="text/css">
+    ol, ul {margin-left: 25px !important; margin-top: 0 !important;}
+    .button {padding: 4px 2px 4px 2px !important;}
+  </style>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+   </o:OfficeDocumentSettings>
+  </xml>
+  <![endif]--> 
+</head> 
+<body style="margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><style type="text/css">div#emailPreHeader{ display: none !important; }</style><div id="emailPreHeader" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">Ready to start building? Explore Twilio docs, video, sample code and more.</div> 
+<center> 
+<table width="100%" cellpadding="0" cellspacing="0" align="center" border="0" class="wrapper" style="background-color:#EEEEEE;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;font-family:system,-apple-system,BlinkMacSystemFont,'SegoeUI','Roboto','Oxygen','Ubuntu','Cantarell','FiraSans','DroidSans',Helvetica,sans-serif;table-layout:fixed;width:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;"> 
+<tbody> 
+<tr> 
+<td align="center"> 
+<center> 
+<!--[if(mso)|(IE)]>
+<table cellpadding="0" cellspacing="0" border="0" width="600">
+<tr>
+<td><![endif]--> 
+<table cellpadding="0" cellspacing="0" border="0" class="outer" style="margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;width:100%;max-width:600px;"> 
+<tbody> 
+<tr> 
+<td bgcolor="#ffffff" class="mktoContainer" id="main-container">
+<table class="mktoModule section-masthead" id="module-masthead" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#F5F5F5;"> 
+<tbody> 
+<tr class="one-col"> 
+<td class="inner" style="padding-top:20px;padding-bottom:20px;padding-left:30px;padding-right:30px;"> 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="contents" style="text-align:left;font-size:16px;line-height:18px;color:#333333;"> 
+<tbody> 
+<tr> 
+<td align="left"> <a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TZkRVON9D6fDoB-2B5x3APSNQyoL9YjiJBBwnEKzppfJp-2Bw-3D-3DhxL6_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqhcxF-2F642d9CCSnWrYMgt5ZCIi-2FOurQ6eg-2FzUmw3xh2mfdmsO2-2Fq87dXDkYYLKRlqZ3nx4hy3Nq-2B-2FF3xt3pDgMdWpOZyDhqwavTMO2V2lDttWHTZpZsOQRPf2y5iwZwgt393nMGXYNL8zpCCXQQQhuBpTajDFKYxgOqf-2BA4M0HQZ" style="color: rgb(242, 47, 70); text-decoration: underline; text-decoration:none;"
+> <img src="https://s3.amazonaws.com/uploads.knak.io/user_uploads/5dc5a8965298c/5dc5adb5a2b13.png" width="150" alt="Twilio" style="width:100%;max-width:150px;border-width:0;height:auto;display:block;" class="align-left" /> </a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table class="mktoModule section-hero contents" id="module-fullwidth-image34190b7e-0b3c-474e-970a-6b88e436697a" width="100%" cellpadding="0" cellspacing="0" border="0" style="font-size:16px;line-height:24px;text-align:left;color:#333333;"> 
+<tbody> 
+<tr class="one-col"> 
+<td class="image" style="font-size:28px;"> 
+<div class="mktoImg" id="img-fullwidth34190b7e-0b3c-474e-970a-6b88e436697a" style="margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;" mktolockimgsize="true" mktolockimgstyle="true">
+<a style="color: rgb(242, 47, 70); text-decoration: underline; text-decoration:none;" href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TZw-2Fc3EYq2Wj3klPcUQ1qM0WdnnKlAROYbM1IRMiOKJ-2Fw-3D-3Dp_lP_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqm4j-2FSRATO253SnK084Jy5n5KYTz7tSn4NP-2BmNeaCfjWeM-2FG9lewu8jRUhj7pLQUpT70io7WPO4XuLfxe22nOuukarwZTNDci-2BFM8ntvX-2FP0-2FcQQ7Y0D5r9Wpu5JsM3D89Qo5a05wAn44zB7QW97RXUBUDPVolNYKdsDC4RTKvnk" target="_blank"
+> <img width="600" style="border-width:0;height:auto;display:block;width:100%;max-width:600px;" src="https://pages.twilio.com/rs/294-TKB-300/images/Welcome_v4 _ Nurture campaign.png" alt="Welcome! Get started with Twilio" /> </a>
+</div> </td> 
+</tr> 
+</tbody> 
+</table>
+<table class="mktoModule section-intro contents" id="module-rich-text4a40469c-6bb6-4e41-9652-0513c9d1fe88" width="100%" cellpadding="0" cellspacing="0" border="0" style="font-size:16px;line-height:24px;text-align:left;color:#333333;"> 
+<tbody> 
+<tr class="one-col"> 
+<td class="inner copy" align="left" style="text-align:left;padding-top:0;padding-bottom:30px;padding-right:30px;padding-left:30px;"> 
+<div class="links-copy" style="margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;"> 
+<div class="mktEditable" id="body-copy4a40469c-6bb6-4e41-9652-0513c9d1fe88" style="margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;"> 
+<p style="margin: 0 0 12px 0;"><br /></p> 
+<p style="margin: 0 0 12px 0;">Hi&nbsp;dominic,</p> 
+<p style="margin: 0 0 12px 0;">Congrats on getting started with Twilio!</p> 
+<p style="margin: 0 0 12px 0;">If you’re looking for some direction on how to begin with SMS using Python, we have some great resources to get you up and running:<br /></p> 
+<ul style="text-align: left; margin-top: 0; margin-bottom: 0; margin-left: 10px; padding-left: 15px; clear: right;"> 
+<li style="margin-bottom: 2px; padding-left: 0px; text-align: left;"><a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TZHvQBnlTkWXxP-2F-2F6a5CoFv-2Br47cCAqbSzI1EXx80aW9w-3D-3DCFLh_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqha78Vji7Ob-2FXyCXZTlQDyiOpVCuojtn3L5CCMMtlpVqb0mkwldL29BhhfsBXZYn10OPZpdz8j451goeBFYX1doS5fG-2F3MX0hdULOKxSrNLlbL2t9JxoNUqbTQFJlb4VHx0hEOxK7Kp8Jyjbhiyoh0k4lRDHExdAUpGFxHVAo8Az" style="color: #f22f46; text-decoration: underline;" target="_blank"
+>Twilio SMS Python Quickstart Docs page</a></li> 
+<li style="margin-bottom: 2px; padding-left: 0px; text-align: left;"><a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TZl6gCWmQcUbC7KvuzB3Mm-2B3hIsfqlcQehIijZGwTOpYA-3D-3DJjB9_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqogMbjC3Yu-2BLdCGrEWfZI46HfFI-2BlWLf2uhTnGtj5TQerCFsmlgxNNoMluy9h-2FkD8-2BViKuDXSaVH0mZ-2FOgHPghQbN5j-2FbNPqS4ZL1axPSTtikQobN2flIrwhFjEmQhizS5zifdoxohwfpzWM5ZC8ycOiu4G5PMgKHzGTSSPqQ7VY" style="color: #f22f46; text-decoration: underline;" target="_blank"
+>Twilio's Python Voices page with community-created Python tutorials</a></li> 
+<li style="margin-bottom: 2px; padding-left: 0px; text-align: left;"><a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TYRgd3SUBTk7xE9aXomqZg6iVy0AICRvmbXD3aOAgCfKg-3D-3D3ouR_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqpltTTahCBqRoUxjduMostSP6Idr0zezVVuX-2BSWSnl1yE2VjBRTDy5xBil9I0wGYlOhafwHNEtp5kCxxia5Rz8Q-2BrpdmGpSP9v5O77RGj-2FvJLR2ZKtK1Ivdnb5DuphOTqcHxeYsTvnpFo7eP8-2BQC-2F6nOiazRvCoT-2BPukhXxJwLyC" style="color: #f22f46; text-decoration: underline;" target="_blank"
+>How to Send and Receive SMS Using Python video</a></li> 
+<li style="margin-bottom: 2px; padding-left: 0px; text-align: left;"><a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TYHPRSKSXWF5D1Hr-2FHo9tra8De3R-2Fl1JWYDiVsGE2HzNQ-3D-3DaL3R_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqh6Un2-2BqzCAMaJTD1LTxdFyo4T4lxZ5vB9CmCsLxV6atBd4cqTRDhsMr2-2BrwbmbUMhzA0e37UvFqQFx57Gz7Zmfk2sJ-2B7T2lwOOqu2-2Fa03G-2BO64rkkTFJmSz6MCLLyHV651ReGbEMjJDPI5el6v-2BH0bkgAw1v72CzRmbWY9r5LD-2B" target="_blank" style="color: #f22f46; text-decoration: underline;"
+>CodeExchange sample code</a></li> 
+</ul> 
+<p style="color: #333333; font-family: system, -apple-system, system-ui, SegoeUI, Roboto, Oxygen, Ubuntu, Cantarell, FiraSans, DroidSans, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 
+2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: #333333; font-family: system, -apple-system, system-ui, SegoeUI, Roboto, Oxygen, Ubuntu, Cantarell, FiraSans, DroidSans, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; 
+letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Feel free to contact&nbsp;our<span>&nbsp;</span><a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TYbk7NpkfWi-2F71nxphcP5mhgsOX8n6uIneNFvo1uyt6ZQ-3D-3DYky__0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqmIBQzlS-2BLYkIaP0BH3rGy3ZyEMFbE-2BMxpmuUcCY-2FldTxNJ2w4tNNxUMf5idA72N6XzzuveHhuLzeEVCiuw6xX-2FHa1mff-2BrlAfg67qQrHn38BgSD3a-2B54QpBAiy-2FzZf-2BZfOnx7wPBrxFrBIjGTJg6eY7v0hNA8fsUjwa5aTUQ-2B-2Bm" style="color: #f22f46; text-decoration: underline;" target="_blank"
+>Support team</a>&nbsp;with any questions you have along your journey.</span></p> 
+<p style="color: #333333; font-family: system, -apple-system, system-ui, SegoeUI, Roboto, Oxygen, Ubuntu, Cantarell, FiraSans, DroidSans, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 
+2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Best,&nbsp;<br />The Twilio Team</p> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table>
+<table class="mktoModule" id="module-button" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+<tbody> 
+<tr class="one-col"> 
+<td class="inner" align="center" style="padding-top:0;padding-bottom:50px;padding-right:30px;padding-left:30px;"> 
+<table class="buttonwrapper align-center" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#F22F46;font-size:15px;line-height:17px;text-align:center;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto; border-radius:4px;"> 
+<tbody> 
+<tr> 
+<td class="button" style="background-color:#F22F46;border-radius:4px;"> <a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TZw-2Fc3EYq2Wj3klPcUQ1qM0WdnnKlAROYbM1IRMiOKJ-2Fw-3D-3DoWs5_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqjv9SMzx4NY73QpSGi2f-2BbQ6NjtpGpazDwuGb-2B419RKAcelqrINoYlfv83l7g47Smdq0UBq7P6tkU0j8IM2lUwxGK5qIGFjMqxEEbnU5Bx-2BPghbthW9DGhdRNjRGHkFyPoxrkbPuWiY3P6s6eIrrVQydxgJw4S1UBVfDfn4O4agx" style="color: rgb(242, 47, 70); text-decoration: underline; 
+border-top-width:11px;border-top-style:solid;border-top-color:#F22F46;border-bottom-width:11px;border-bottom-style:solid;border-bottom-color:#F22F46;border-left-width:22px;border-left-style:solid;border-left-color:#F22F46;border-right-width:22px;border-right-style:solid;border-right-color:#F22F46;color:#FFFFFF;display:inline-block;text-decoration:none;border-radius:4px;"
+><b>Get started with SMS</b></a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table></td> 
+</tr> 
+<tr> 
+<td> 
+<!-- FOOTER START --> 
+<table style="margin: 0 auto;width:100%" cellspacing="0" cellpadding="0" border="0" width="width:100%"> 
+<tbody> 
+<tr> 
+<td class="mktoSnippet" id="Footer"> 
+<table id="footer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #2c2c2a; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; width: 100%; padding: 24px 0;"> 
+<tbody> 
+<tr style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #2c2c2a; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;"> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #2c2c2a; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; border-collapse: collapse; width: 100%;" height="150" align="center"> <p style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #bcb6aa; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0; font-size: 13px; line-height: 18px; text-decoration: none; padding-bottom: 12px;"><img alt="We can't wait to see what you build!" src="https://pages.twilio.com/rs/294-TKB-300/images/twilio-footer-byline-serif.png" style="max-width: 100%; border: none; outline: none; -ms-interpolation-mode: bicubic; width: 306px; height: 30px;" width="306" height="30" /></p> <p style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #b1aca0; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0; font-size: 13px; line-height: 18px; text-decoration: none; padding-bottom: 24px;"><a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TZ7aOgkR-2BBWcl6sGGblZ-2FGkkb7SCP50Q07e1VUssatIcg-3D-3DdfYq_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqqPsKZ6P5IBrWECsVlNO781cod6sFaezmw-2FCCP-2BwFu-2FNypgF2wArpGsqd-2BGl4SNsx4lkxwSUA-2BiK5SkxQV5eJWy74-2F2dBM16EZ2z6pleljsCpxluqxeAJ6MC7j14soz1Qkmyi-2FVfR9M94MlhEQX-2Fd7THd-2FI5swqiNKLMYuzFGe7T" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: 
+antialiased; color: #8f8776; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-decoration: none; font-size: 13px; line-height: 18px;" target="_blank"
+><img alt="Twilio" src="https://pages.twilio.com/rs/294-TKB-300/images/twilio-footer-logo.png" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #2c2c2a; font-family: 
+Helvetica Neue, Helvetica, Arial, sans-serif; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; border: none;" width="32" height="32" /> </a></p> <p style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #b1aca0; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0; font-size: 13px; line-height: 18px; text-decoration: none; padding-bottom: 24px;">This email was sent to <a href=
+"mailto:devtest.dchim123@gmail.com" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; 
+-webkit-font-smoothing: antialiased; color: #8f8776; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-decoration: none; font-size: 13px; line-height: 18px;" target="_blank" class="mktNoTrack"
+>devtest.dchim123@gmail.com</a>.<br /> Don't want to receive emails from Twilio? <a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=g9wRt9AavN88s36J1Koavx4fVLHITr3ytvjwLHAz9TYfxCW8Hi9aGCAlAT4Z17bgxy-2BSk4Pm4bgVuwn07kcboA-3D-3DJvXJ_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqvXYQJ5ZbPxBOg0cLb2JUEzzc6yWLzndIgeTz2rT5-2BF03mf9oUHRTo9KkCzl-2B3ftU45TT8R-2Fhr7Y6BwWCXuZCvTfJvLNyC-2B976HLncv68jX6Us97q-2FYjbe-2FUFK5h4mVdiGA9E9YXtd0Bz42grvR9b-2BykDzC2aaeLA9J3ntkADYn4" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; 
+-webkit-font-smoothing: antialiased; color: #8f8776; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-decoration: none; font-size: 13px; line-height: 18px;" target="_blank"
+>Change your email preferences</a><a href="https://u3528416.ct.sendgrid.net/ls/click?upn=OHV4-2FqkTPBIi8pj9zljUkLjItY90ZL4gJ-2BRbbhpMOMqHKmaHNzXZQpEgfL3YNcqI5K-2B12UIZbt5jjc3HkrfwnTZnr5r9XWhK4R4Nm793SRYoz5AwmO0UOV7al6N4vO2oDRQS-2BoSkB6ButZw6Z-2BCtrgvjpZfrNSN08NNJvA55XIiOU4e1hNEJE0cEaio64c6YpaV8FU0Fi-2BXvXx585cw8w0V6jF-2BhF15u0h0q7f-2By-2Bi7UKH2Kfq9GNLAN-2FV8fLr7-2BRZp2Y1XjisObCkAvvclQldV03MVhZVFdedEVGOlcOlM6ncm9-2BnBQf8tRADMR5-2F1G7MC31wsuc-2Bbor54GsNJaoHSSYkvssehuVpyDEdNUaa24uODQ-2BXK5JkYVuVqF-2FZWCLUTy1kt6jlFGe8vvBRpy5A-3D-3D8AE9_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqvguBNQQ53LgKusFtr44-2BYacJotMqSEovW6JPa-2BFgcdaqGmT2BsikSTH83zsbBZ0wN2bBGA6c0DTLXhksJ6flpmf1ri6Meh4e32dnOATxWMX0Ripkscz-2F5H9UPd18lDTmb-2BWoJawI22I7u41OkfcU6NvKIMYe2bA1Okgh4P01-2FCa"></a>.<br /> If you have any questions or concerns, please contact us at <a href=
+"https://u3528416.ct.sendgrid.net/ls/click?upn=OHV4-2FqkTPBIi8pj9zljUkLw1bglmhJGzuA3zs-2F4EN1htXgmpD9iMlUhDdPJxeHFwt_uY_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqsUC4YC3bY5emvfkMJZ4LLTJOZ5jRiIN-2FNVd0OkPl8S6InxtLw15rsen7YCkB1Dnepwpe40L4i1RiKmO8iCN-2ByiAhPK-2Ff7bU9hMAl-2BFcKNcWl-2BxFg7DdjBGCbWiv3v9-2FNVt5aShid7l2MbM7QfM-2BIIhnjMvmpibWEcImOGmyzviq" style="-webkit-text-size-adjust: 100%; 
+-ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #8f8776; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-decoration: none; font-size: 13px; line-height: 18px;" target="_blank" class="mktNoTrack"
+>https://www.twilio.com/help/contact</a>.</p> <p style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #b1aca0; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0; font-size: 13px; line-height: 18px; text-decoration: none; padding-bottom: 24px;">If you're having trouble reading this email, try the<span class="link" style="-webkit-text-size-adjust: 100%; 
+-ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #8f8776; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;"> <a href="https://u3528416.ct.sendgrid.net/ls/click?upn=OHV4-2FqkTPBIi8pj9zljUkLjItY90ZL4gJ-2BRbbhpMOMpMv2ZlAGy2tK-2BGXLK8E-2BKtY4xllS9STBx3fbClV6rkpy06IastS7PvTXnbjVvC-2BGxxXdDI4K7KAgxTc-2F19dRUDy4n4qGSzAEyo9kRkm8vset9arWx0QPl5tX0NuE86w7GGIwC8X4jnI3E3UofJ-2FtoCYWKtrafU4Z4calejceRiEDtjl1r3Duh4raU5-2BL4-2BFq-2Bm8czVudl76Mah-2B93St3-2BRpCW-2FWewx0BPBdDcOl-2FN8cz9XNMfpi-2FpBk2b7Zmz71B2RkZl-2F2sOgxJJLb1w7fQxvsn2HKsd0tzJI0o6hDhUOR0we8Sm7KurnByzHEauAlPYUKLqtKeYLkVXF58YFWNeY1Id9Yy-2F-2BjoNVEP5Cg1OKk-2BSsgTdPnjiWZ1GHT-2F7HEnEFnl4BSYiKpDINOxQpDfBjiPnSnAXDLmLEJpuDIBv1xFhLJlqvbOEJabDywZkUmQ4-3Dsqxt_0q-2BVUr7GTftER9tzBmLRV7FQaYWl6OpfKCPPfZZULoN66JdcVoPhpRjqaLAqrMEoNEhY7ho7vVXqqQ9g2vTEqtFUlHjkkK5aa2Hp6csR-2BHPB0CgtFEhvcylel-2Ba2ZTS6o2Gs1JaYard2k5YQ4cvUvlV1-2Fx2cMCebH6t5Q5k7gsGwrVHv8pBSfRfpePSMTu0LRn6jJ6rNAB7IYVaNtxgEFVmvOMHMA-2Fqbl9GRn53PeH-2F8q2aRxwL-2FBbuUqL2trqoX" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #8f8776; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-decoration: none; font-size: 13px; line-height: 18px;" target="_blank" class="mktNoTrack">web version</a></span>.</p> <p style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; color: #b1aca0; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0; font-size: 13px; line-height: 18px; text-decoration: none; padding-bottom: 24px;">Twilio <a style="text-decoration: none; color: #b1aca0;">375 Beale St, San Francisco, CA 94105</a></p> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> 
+<!-- FOOTER END --> </td> 
+</tr> 
+</tbody> 
+</table> 
+<!--[if(mso)|(IE)]></td>
+</tr>
+</table>
+<![endif]--> 
+</center> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>  
+
+<img src="http://links.twilio.com/trk?t=1&mid=Mjk0LVRLQi0zMDA6MDoxMDg3OToxMTExNTE6MDo2NzEyOjk6NTI4MDg6NTMyODgwODctMTpudWxs" width="1" height="1" style="display:none !important;" alt="" />
+<img src="https://u3528416.ct.sendgrid.net/wf/open?upn=VPNIskLU5fP178toE3TjlY7PfwByjTDFBlhvz3Yx-2B3vDrlj1KZlxT56QdaJwXR-2FwOSgD0LMam0OcrzYhVSmXDDhcHGGP5gkKD-2FDRV0HXocTK4QyTgPVCoAAnhshhJg2UG5L0J7YOP2ba9HMe0sd1RSbqzzReYAYInwDNooB-2Fre069w6vmo07-2Fcs5gJhYWgbU1VY4CDksfEb9EOGR8myc939-2Fg0Pn-2F9EH7LFxOkAv6pqvwodVe3RTFFek28zvweit" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
