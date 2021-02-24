@@ -1,0 +1,58 @@
+.red {
+    background-color:red;
+  }
+.larger {
+    font-size: 6vh;
+  }
+  
+.bold {
+    font-weight: bold;
+  }
+  
+.Cockpit button {
+    background-color: green;
+    color: white;
+    font:inherit;
+    border: 1px solid blue;
+    padding: 16px;
+    cursor:pointer
+  }
+  
+.Cockpit button.red {
+    background-color: red;
+  }
+
+.Cockpit button.Red:hover {
+    background-color: salmon;
+    color: black;
+  }
+  
+  
+.Cockpit-logo {
+    animation: Cockpit-logo-spin infinite 20s linear;
+    height: 20vmin;
+  }
+  
+.Cockpit-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+.Cockpit-link {
+    color: #61dafb;
+  }
+  
+  @keyframes Cockpit-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
