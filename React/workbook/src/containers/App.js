@@ -4,6 +4,12 @@ import Persons from '../components/Persons/Persons';
 import classes from './App.css'
 
 class App extends Component {
+
+  constructor(props) {
+    super(props);
+    console.log("'[App.js] constructor")
+  }
+
   state = {
     persons:[
       {id:'123',name:'david',age:21},
@@ -13,6 +19,15 @@ class App extends Component {
     ],
     otherState:'some other value',
     showPersons:false
+  }
+
+  static getDerivedStateFromProps(props, state) {
+    console.log("'[App.js] getDerivedStateFromProps",props);
+    return state;
+  }
+
+  componentDidMount(){
+    console.log("'[App.js] componentDidMount");
   }
 
   handleChangeHandler =(event,index) =>{
@@ -44,7 +59,7 @@ class App extends Component {
   }
 
   render() {
-
+    console.log("'[App.js] render");
     let persons = null;
     
     
